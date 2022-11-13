@@ -8,7 +8,6 @@ const App = () => {
   return (
     <div className="container-fluid">
         <Navigation />
-        <h1>hello!</h1>
         <KanbanColumn />
     </div>
 
