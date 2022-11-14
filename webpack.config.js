@@ -18,6 +18,7 @@ module.exports = {
         warnings: false,
       },
     },
+    open: true,
   },
   module: {
     rules: [
